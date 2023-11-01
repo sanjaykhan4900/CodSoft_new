@@ -1,0 +1,38 @@
+{"question": [
+    "Q1. Who developed python programming language?",
+    "Q2. Which type of Programming does Python support?",
+    "Q3. Is Python case sensitive when dealing with identifiers?",
+    "Q4. Which of the following is the correct extension of the Python file?"
+  ],
+  "answer": [
+    3,
+    4,
+    2,
+    3
+  ],
+  "options": [
+
+    [" Wick van Rossum",
+    "Rasmus Lerdorf",
+     "Guido van Rossum",
+    " Niene Stom"
+    ],
+    ["object-oriented programming",
+    "structured programming",
+    "functional programming",
+    "all of the mentioned"
+    ],
+
+    [" no",
+     "yes",
+    "machine dependent",
+    "none of the mentioned"
+    ],
+
+    ["python",
+    ".pl",
+    ".py",
+    ".p"
+    ]
+  ]
+}
